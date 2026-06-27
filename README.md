@@ -24,7 +24,7 @@ A curated list of PSP modding resources.
 
 - [GameBrew – PSP Emulators](https://www.gamebrew.org/wiki/List_of_PSP_homebrew_emulators) - Full list of emulators.
 - [PSP Archive – All Emulators](https://psp-archive.github.io/emulators/all-emulators-for-PSP.html) - Emulator list with compatibility notes.
-- [TempGBA4PSP]([https://gbatemp.net/threads/tempgba4psp-new-build.677126/](https://github.com/andymcca/TempGBA4PSP-mod)) - GBA emulator.
+- [TempGBA4PSP](https://github.com/andymcca/TempGBA4PSP-mod) - GBA emulator.
 - [gpSP Kai](https://www.gamebrew.org/wiki/UO_g%D1%80SP_Kai_PSP) - GBA emulator.
 - [Snes9X Euphoria](https://www.gamebrew.org/wiki/Snes9X_Euphoria_PSP) - SNES emulator.
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - N64 emulator.
