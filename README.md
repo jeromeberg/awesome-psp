@@ -12,6 +12,7 @@ A curated list of PSP modding resources.
 - [ISO Tools](#iso-tools)
 - [Development](#development)
 - [Resources](#resources)
+- [Misc](#misc)
 
 ---
 
@@ -76,6 +77,7 @@ A curated list of PSP modding resources.
 - [PSP Programming](https://github.com/robfernan/PSP-Programming) - C tutorials using PSPSDK and SDL2.
 - [PSP Development — Wikibooks](https://en.wikibooks.org/wiki/PSP_Development) - Wiki on PSP development.
 - [PSP Programming Languages Overview](https://psp-archive.github.io/apps/PSP_programming_languages.html) - Overview of the language options available to PSP programmers.
+- [PSPLINK](https://github.com/pspdev/psplinkusb/) – Start and debug homebrew through USB.
 
 ## Resources
 
@@ -84,3 +86,7 @@ A curated list of PSP modding resources.
 - [GBAtemp PSP Forum](https://gbatemp.net/forums/sony-psp.44/) - PSP hacking community.
 - [GameBrew Wiki](https://www.gamebrew.org/) - Big homebrew/emulator database.
 - [Convert PSX Games to PSP Format - pspunk](https://www.pspunk.com/psp-psx2psp/) – Guide to convert PSX games.
+
+## Misc
+
+- [PPSSPP](https://www.ppsspp.org/) – PSP emulator for Android, Windows, Mac, Linux and iOS.
