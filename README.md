@@ -9,10 +9,9 @@ A curated list of PSP modding resources.
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Homebrew Games](#homebrew-games)
-- [ISO Tools](#iso-tools)
+- [Tools](#tools)
 - [Development](#development)
 - [Resources](#resources)
-- [Misc](#misc)
 
 ---
 
@@ -58,7 +57,11 @@ A curated list of PSP modding resources.
 - [nzportable (NZ:Portable)](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies demake.
 - [Dino Run PSP](https://www.gamebrew.org/wiki/Dino_Run_PSP) – Port of chrome's dinosaur game.
 
-## ISO Tools
+## Tools
+
+- [PPSSPP](https://www.ppsspp.org/) – PSP emulator for Android, Windows, Mac, Linux and iOS.
+
+### ISO
 
 - [ciso](https://github.com/jamie/ciso) - Simple command line utility to compress PSP iso files.
 - [cisoplus](https://github.com/meoow/cisoplus) - CSO compressor with extra options.
@@ -86,7 +89,3 @@ A curated list of PSP modding resources.
 - [GBAtemp PSP Forum](https://gbatemp.net/forums/sony-psp.44/) - PSP hacking community.
 - [GameBrew Wiki](https://www.gamebrew.org/) - Big homebrew/emulator database.
 - [Convert PSX Games to PSP Format - pspunk](https://www.pspunk.com/psp-psx2psp/) – Guide to convert PSX games.
-
-## Misc
-
-- [PPSSPP](https://www.ppsspp.org/) – PSP emulator for Android, Windows, Mac, Linux and iOS.
