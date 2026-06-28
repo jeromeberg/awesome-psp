@@ -1,6 +1,6 @@
 # Awesome PSP
 
-A curated list of PSP modding resources.
+A curated list of modding and development resources for PSP.
 
 ## Content
 
@@ -56,6 +56,7 @@ A curated list of PSP modding resources.
 - [Minecraft PSP 2.0](https://www.moddb.com/mods/minecraft-psp/downloads/minecraft-psp-20-release) - Minecraft-style sandbox game, based on Lamecraft.
 - [nzportable (NZ:Portable)](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies demake.
 - [Dino Run PSP](https://www.gamebrew.org/wiki/Dino_Run_PSP) – Port of chrome's dinosaur game.
+- [Paper PSP](https://github.com/jeromeberg/paper-psp) – Paper.io clone for PSP.
 
 ## Tools
 
